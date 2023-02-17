@@ -1,0 +1,15 @@
+{
+  "name": "sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:tool": "npm run build --workspace packages/tool",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "packages/tool"
+  ],
+  "author": "",
+  "license": "ISC"
+}

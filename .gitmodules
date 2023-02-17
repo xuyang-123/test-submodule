@@ -1,0 +1,3 @@
+[submodule "packages/git-study"]
+	path = packages/git-study
+	url = git@github.com:limove/git-study.git
